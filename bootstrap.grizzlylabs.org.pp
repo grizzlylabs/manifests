@@ -1,3 +1,3 @@
 node 'bootstrap.grizzlylabs.org' {
-   include puppet_service
+   include ::profile:puppetmaster
 }
