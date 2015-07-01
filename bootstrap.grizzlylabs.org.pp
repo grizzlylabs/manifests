@@ -1,3 +1,3 @@
 node 'bootstrap.grizzlylabs.org' {
-   include profiles::puppetmaster
+   include roles::deployment
 }
